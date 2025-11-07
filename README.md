@@ -19,7 +19,7 @@ try2/
 
 ---
 
-## ⚙️ Dependencies
+## Dependencies
 Make sure the following Python packages are installed before running the code:
 
 ```bash
@@ -72,14 +72,6 @@ or
 python -m unittest task1test.py
 ```
 
-### Example Output
-```
-================== test session starts ==================
-collected 3 items
-
-task1test.py ...                                    [100%]
-=================== 3 passed in 0.10s ====================
-```
 
 ---
 
